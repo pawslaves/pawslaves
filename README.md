@@ -19,6 +19,6 @@
 
 <br>
 
-[![discord presence](https://lanyard.cnrad.dev/api/1451681155152613563?theme=dark&bg=000000&borderRadius=0px&ignoreAppId=363445589247131668&idleMessage=probably%20breaking%20something)](https://discord.com/users/1451681155152613563)
+[![discord presence](https://pawslaves.gay/card.svg)](https://discord.com/users/1451681155152613563)
 
 </div>
