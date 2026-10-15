@@ -7,6 +7,7 @@
 *i make stuff, sometimes it works..*
 
 [![site](https://img.shields.io/badge/pawslaves.gay-000?style=flat-square)](https://pawslaves.gay)
+
 <br>
 
 ![astro](https://img.shields.io/badge/astro-000?style=flat-square&logo=astro&logoColor=fff)
